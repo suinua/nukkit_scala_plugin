@@ -1,0 +1,5 @@
+name: Sample #プラグインがの名前
+main: my.plugin.Sample #Mainクラスの場所
+version: 0.0.1
+author: suinua
+api: ["1.0.0"]
